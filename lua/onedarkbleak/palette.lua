@@ -204,7 +204,7 @@ return {
 		bg_d = "#1b1c1e",
 		bg_blue = "#68aee8",
 		bg_yellow = "#e2c792",
-		fg = "#cbc8c8",
+		fg = "#d0cabd",
 		purple = "#d7bbb2",
 		green = "#aeb9a7",
 		orange = "#caaf96",
